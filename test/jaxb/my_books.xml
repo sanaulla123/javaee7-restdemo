@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <title>Cracking The Coding Interview: 150 Programming Questions And Solutions </title>
+        <authors>
+            <author>Gayle Laakmann McDowell</author>
+        </authors>
+        <publisher>Pothi.com</publisher>
+        <year>2011</year>
+        <numberOfPages>508</numberOfPages>
+        <price>504</price>
+        <reviews>
+            <review>
+                <content>Great book</content>
+                <rating>4</rating>
+                <author>Abc Xyz</author>
+                <postedOn>Mon, Nov 18, '13</postedOn>
+            </review>
+            <review>
+                <content>Needs improvement</content>
+                <rating>2</rating>
+                <author>Xyz Pqr</author>
+                <postedOn>Thu, Nov 14, '13</postedOn>
+            </review>
+        </reviews>
+        <isbn>9780984782802</isbn>
+        <binding>Paperback</binding>
+    </book>
+    <book>
+        <title>Java : The Complete Reference 8 Edition</title>
+        <authors>
+            <author>Herbert Schildt</author>
+        </authors>
+        <publisher>Tata McGraw - Hill Education</publisher>
+        <year>2011</year>
+        <numberOfPages>1152</numberOfPages>
+        <price>438.0</price>
+        <reviews>
+            <review>
+                <content>Great Book!!</content>
+                <rating>5</rating>
+                <author>Pqr Wxy</author>
+                <postedOn>Mon, Nov 18, '13</postedOn>
+            </review>
+            <review>
+                <content>Must read for Java programmers</content>
+                <rating>5</rating>
+                <author>Xyz Abc</author>
+                <postedOn>Thu, Nov 14, '13</postedOn>
+            </review>
+        </reviews>
+        <isbn>9781259002465</isbn>
+        <binding>Paperback</binding>
+    </book>
+</books>
